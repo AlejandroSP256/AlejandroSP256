@@ -1,8 +1,8 @@
 # Hi there 👋 my name is Alejandro
 ![fondo](https://github.com/user-attachments/assets/ced4a1e6-d93c-4a51-a378-34e9ffa8ddd3)
 ## Find me on  
-<a href="https://www.instagram.com/alejandev256?igsh=anBqcmd3c3BxYjh5" target="_blank">![Instagram](https://img.shields.io/badge/-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/alejandrosp256/" target="_blank">![LinkedIn](https://img.shields.io/badge/-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alejandev256?igsh=anBqcmd3c3BxYjh5)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlejandroSP256)
 
 <!--
 **AlejandroSP256/AlejandroSP256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
