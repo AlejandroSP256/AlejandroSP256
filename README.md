@@ -22,7 +22,7 @@ Me enfoco en mejorar las herramientas que utilizo para realizar un trabajo organ
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)  
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandrosp256&show_icons=true&theme=radical)
 <!--
 **AlejandroSP256/AlejandroSP256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
