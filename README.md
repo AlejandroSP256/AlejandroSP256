@@ -1,4 +1,7 @@
-# Hi there 👋 my name is Alejandro **a Full-Stack Developer**
+# Hi there 👋 my name is Alejandro
+![fondo](https://github.com/user-attachments/assets/ced4a1e6-d93c-4a51-a378-34e9ffa8ddd3)
+
+
 
 <!--
 **AlejandroSP256/AlejandroSP256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
