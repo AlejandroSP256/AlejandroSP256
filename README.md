@@ -1,6 +1,6 @@
 # Hi there 👋 my name is Alejandro
 ![fondo](https://github.com/user-attachments/assets/ced4a1e6-d93c-4a51-a378-34e9ffa8ddd3)
-#Find me on  
+## Find me on  
 <a href="https://www.instagram.com/alejandev256?igsh=anBqcmd3c3BxYjh5" target="_blank">![Instagram](https://img.shields.io/badge/-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/alejandrosp256/" target="_blank">![LinkedIn](https://img.shields.io/badge/-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
