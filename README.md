@@ -1,9 +1,10 @@
 # Hi there 👋 my name is Alejandro
 ![fondo](https://github.com/user-attachments/assets/ced4a1e6-d93c-4a51-a378-34e9ffa8ddd3)
-
+<a name="Instagram" class="links">https://www.instagram.com/alejandev256?igsh=anBqcmd3c3BxYjh5</a>
+<a name="LinkedIn" class="links">www.linkedin.com/in/alejandrosp256</a>
 #Find me on 
-[Instagram](https://www.instagram.com/alejandev256?igsh=anBqcmd3c3BxYjh5)
-[LinkedIn](www.linkedin.com/in/alejandrosp256)
+[Instagram](#Instagram)
+[LinkedIn](#LinkedIn)
 <!--
 **AlejandroSP256/AlejandroSP256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
